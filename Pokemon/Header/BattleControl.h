@@ -37,8 +37,6 @@ public:
     void AtackEnemy();
     void AtackAliade();
     void conexion();
-    //v//oid SetDamag(int damage){this->damag = damage;};
-    //void GetDamag(){return damag};
 };
 
 BattleControl::BattleControl(/* args */)
